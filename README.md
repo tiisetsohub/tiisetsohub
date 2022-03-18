@@ -11,7 +11,7 @@ I'm very interested in enhancing my skills and learning new things💻.
 
 - I wrote my first line of code in Delphi😅
 - I'm currenty learning Swift and Flutter🤓
-- I enjoy playing sports and being outdoor😼
+- I enjoy playing sports and being outdoors😼
 - Oh! I also code, sometimes😅
 - Feel free to contact me on [LinkedIn](linkedin.com/in/tiisetsomojalefa)
 - Check out my [resume](https://drive.google.com/file/d/1R-_uWizqp_iqfzB0LMsdXhPWTjh0E8eR/view?usp=sharing)
