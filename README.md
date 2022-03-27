@@ -1,6 +1,6 @@
 ## Yo 👋, I'm Tiisetso!
 
-<a href='linkedin.com/in/tiisetsomojalefa'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/tiisetsomojalefa/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 I am computer science student at the university of Witswatersrand. In and outside of school, I've acquired an array of knowledge in Full Stack Development, App Development and Web Development.
 I'm very interested in enhancing my skills and learning new things💻.
