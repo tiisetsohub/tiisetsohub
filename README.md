@@ -10,8 +10,9 @@ I'm very interested in enhancing my skills and learning new things💻.
 ### A little About Me👁👁
 
 - I wrote my first line of code in Delphi😅
-- I'm currenty learning Swift and Flutter🤓
+- I'm currenty learning React🤓
 - I enjoy playing sports and being outdoors😼
+- I recently won a hackathon🤩
 - Oh! I also code, sometimes😅
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/tiisetsomojalefa/)
 - Check out my [resume](https://drive.google.com/file/d/1R-_uWizqp_iqfzB0LMsdXhPWTjh0E8eR/view?usp=sharing)
