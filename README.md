@@ -15,7 +15,7 @@ I'm very interested in enhancing my skills and learning new things💻.
 - I recently won a hackathon🤩
 - Oh! I also code, sometimes😅
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/tiisetsomojalefa/)
-- Check out my [resume](https://drive.google.com/file/d/1R-_uWizqp_iqfzB0LMsdXhPWTjh0E8eR/view?usp=sharing)
+- Check out my [resume](https://drive.google.com/file/d/1F7qmNobypyED6cNwjpEVenaUlKnP3Pjq/view?usp=sharing)
 
 <br/>
 
