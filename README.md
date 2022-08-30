@@ -12,7 +12,7 @@ I'm very interested in enhancing my skills and learning new things💻.
 - I wrote my first line of code in Delphi😅
 - I'm currenty learning React🤓
 - I enjoy playing sports and being outdoors😼
-- I recently won a hackathon🤩
+- I recently won 2 hackathons🤩
 - Oh! I also code, sometimes😅
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/tiisetsomojalefa/)
 - Check out my [resume](https://drive.google.com/file/d/1F7qmNobypyED6cNwjpEVenaUlKnP3Pjq/view?usp=sharing)
