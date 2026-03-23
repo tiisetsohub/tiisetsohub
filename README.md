@@ -1,34 +1,78 @@
-## Yo 👋, I'm Tiisetso!
+## Yo 👋, I'm Tiisetso
 
 <a href='https://www.linkedin.com/in/tiisetsomojalefa/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<br/>
-I am computer science student at the university of Witswatersrand. In and outside of school, I've acquired an array of knowledge in Full Stack Development, App Development and Web Development.
-I'm very interested in enhancing my skills and learning new things💻.
-
-<br/><br/>
-
-### A little About Me👁👁
-
-- I wrote my first line of code in Delphi😅
-- I'm currenty learning React🤓
-- I enjoy playing sports and being outdoors😼
-- I recently won 2 hackathons🤩
-- Oh! I also code, sometimes😅
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/tiisetsomojalefa/)
-- Check out my [resume](https://drive.google.com/file/d/1F7qmNobypyED6cNwjpEVenaUlKnP3Pjq/view?usp=sharing)
-
+<a href='https://x.com/tiisetsomojalefa'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/social_media_icons/twitter/twitter.svg" height='18px'/></a>
 <br/>
 
-### Languages and tools🛠
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi36LLDwND2AhUWHcAKHQkAC1AQFnoECCMQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&usg=AOvVaw3glL8olO8f25SVDG0xLX5b" target="_blank"><img align="left" alt="Ruby" height ="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img align="left" alt="Ruby" height ="33px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="Java" height ="33px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
+Founder, engineer, builder. I run multiple software businesses from South Africa — and I'm not waiting for permission to ship.
 
+### 🚀 What I'm Building
 
-<!---
+**Tenrooms** — A property tech ecosystem for South African real estate
+- **AgentOS**: Operating system for independent agencies
+- **Listing platform**: Better way to find homes, with context that actually matters
+
+**TiisetsohHub** — Software agency building web apps and systems for clients
+
+**Micro-SaaS** — Focused tools that compound into recurring revenue
+
+**Eve** — My AI assistant and Chief of Staff. Yes, I built her myself.
+
+---
+
+### 💡 My Philosophy
+
+> "Ship fast. Own the stack. Build leverage. Be known for it."
+
+I don't just write code. I build businesses, shape brand, and solve real problems. I'd rather ship imperfect and learn fast than wait for perfect and ship never.
+
+---
+
+### 🎯 What I Do
+
+- **Full-stack development** — From design to deployment, I own the whole stack
+- **Product development** — Taking ideas from zero to shipped products
+- **Technical consulting** — Helping clients build the right thing, not just any thing
+- **Building in public** — Sharing the journey of a solo founder-engineer
+
+---
+
+### 🌍 Why South Africa?
+
+I'm building from South Africa because that's where I am. The ecosystem is smaller, the resources are fewer — but the opportunity is real. I'm part of a wave of African founders building globally relevant software from local roots.
+
+If you're an African builder and you're waiting for "the right time" — it's now.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:** Python, JavaScript/TypeScript, Java, C++
+
+**Frameworks:** React, Node.js, Django, Flutter
+
+**Infra:** AWS, VPS deployment, CI/CD
+
+**Tools:** Git, Docker, PostgreSQL, MongoDB
+
+---
+
+### 📝 Recent
+
+Building Tenrooms AgentOS — an operating system for independent real estate agencies who deserve better tools than what enterprise software offers.
+
+---
+
+### 📬 Connect
+
+- **LinkedIn:** [tiisetsomojalefa](https://www.linkedin.com/in/tiisetsomojalefa/)
+- **Twitter/X:** [@tiisetsomojalefa](https://x.com/tiisetsomojalefa)
+- **Tenrooms:** Coming soon
+
+If you're building something interesting or want to chat about South African tech, real estate, or the founder journey — reach out.
+
+---
+
+<!--
 tiisetsohub/tiisetsohub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
