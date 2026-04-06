@@ -7,7 +7,7 @@ Founder. Engineer. Building from South Africa.
 ### What I'm building
 
 - **Tenrooms** — Property tech for South African real estate
-- **TiisetsohHub** — Software agency
+- **TiisetsoHub** — Software agency
 - **Micro-SaaS** — Small, focused tools
 
 ---
